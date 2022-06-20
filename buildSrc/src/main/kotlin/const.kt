@@ -1,5 +1,5 @@
-//val KOTLIN_VERSION = "1.6.10"
-val KOTLIN_VERSION = "1.6.21"
-//val COMPOSE_VERSION = "1.1.1"
-val COMPOSE_VERSION = "1.2.0-alpha01-dev716"
+val KOTLIN_VERSION = "1.6.10"
+//val KOTLIN_VERSION = "1.6.21"
+val COMPOSE_VERSION = "1.1.1"
+//val COMPOSE_VERSION = "1.2.0-alpha01-dev716"
 
