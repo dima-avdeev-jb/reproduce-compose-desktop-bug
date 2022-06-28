@@ -1,5 +1,6 @@
 pluginManagement {
   repositories {
+    mavenLocal()
     gradlePluginPortal()//todo alternative?: maven { setUrl("https://plugins.gradle.org/m2/") }
     mavenCentral()
 //    maven { setUrl("https://dl.bintray.com/kotlin/kotlinx") }

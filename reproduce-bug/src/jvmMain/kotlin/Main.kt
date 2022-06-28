@@ -86,7 +86,7 @@ fun ModifyFlows(flows: Flows) {
       .background(Color.LightGray)
       .focusRequester(focusRequester)
       .focusable()
-      .focusTarget()
+//      .focusTarget()
       .onKeyEvent {
         if (it.type == KeyEventType.KeyUp) {
           if (it.key == Key.DirectionLeft) {
